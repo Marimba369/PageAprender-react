@@ -1,0 +1,49 @@
+.container-course{
+    display: flex;
+    justify-content: center;
+    gap: 4.688rem;
+}
+
+.section-logica{
+    display: flex;
+    flex-direction: column;
+    width: 19.75rem;
+    height: 15.875rem;
+    background-color: #1F1C29;
+    border-radius: 3px;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+}
+
+.section-html{
+    display: flex;
+    flex-direction: column;
+    width: 19.75rem;
+    height: 15.875rem;
+    background-color: #1F1C29;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+.section-css{
+    display: flex;
+    flex-direction: column;
+    width: 19.75rem;
+    height: 15.875rem;
+    background-color: #1F1C29;
+    border-radius: 3px;
+    align-items: center;
+    justify-content: center;
+}
+
+h2{
+    font-size: 1.875rem;
+    color: white;
+}
+
+img{
+    width: 3.125rem;
+    height: 3.438rem;
+}

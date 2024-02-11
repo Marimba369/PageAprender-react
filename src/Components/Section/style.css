@@ -1,0 +1,17 @@
+.section-subtitle{
+    color: #B9971E;
+    font-size: 1.75rem;
+    max-width: 36.75rem;
+}
+
+.section-title{
+    color: white;
+    font-size: 5.313rem;
+    font-weight: bold;
+}
+
+.container-section{
+    display: flex;
+    gap: 4.688rem;
+    flex-direction: column;
+}
