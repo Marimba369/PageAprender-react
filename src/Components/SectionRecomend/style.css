@@ -1,0 +1,39 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 25px;
+    margin: 150px;
+}
+
+
+.container-ball{
+    width: 130px;
+    height: 128px;
+    border-radius: 110px;
+    background-color: #282530;
+}
+
+
+h1, h3{
+    color: white;
+    font-size: 25;
+}
+
+.container-word{
+    max-width: 477px;
+    max-height: 162px;
+}
+
+.section-line{
+    display: flex;
+    width: 384px;
+    height: 15px;
+    flex-direction: column;
+}
+
+.container-section{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}

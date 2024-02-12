@@ -6,6 +6,10 @@ import Header from './Components/Head'
 import SectionText from './Components/Section'
 import SectionImg from './Components/SectionImg'
 import SectionCourse from './Components/SectionCourse'
+import SectionRecomend from './Components/SectionRecomend'
+import SectionLine from './Components/Section-line'
+import SectionPrice from './Components/SectionPrice'
+import Footer from './Components/Footer'
 
 function App() {
 
@@ -19,9 +23,15 @@ function App() {
         <SectionImg />
       </div>
       
-      <div className='container-course'>
-        <SectionCourse />
-      </div>
+      <SectionCourse />
+  
+      <SectionRecomend />   
+
+      <SectionLine />
+  
+      <SectionPrice />
+
+      <Footer />
 
     </div>
     

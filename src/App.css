@@ -1,3 +1,8 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
 body{
   background-color: #131119;
   font-family: "Ubuntu", bold;
@@ -13,3 +18,5 @@ body{
 .container-geral{
   margin: 3.125rem;
 }
+
+

@@ -1,0 +1,48 @@
+.container-Price{
+    display: flex;
+    justify-content: center;
+    margin: 150px;
+    flex-direction: column;
+    align-items: center;
+    gap: 40px;
+}
+
+.container-Price h1{
+    color: white;
+    font-size: 40px;
+    max-width: 708px;
+    max-height: 117px;
+    
+}
+
+.container-stater{
+    width: 324px;
+    height: 484px;
+    background-color: #1F1C29;
+}
+
+.container-stater h1{
+    color: #8872E7;
+    font-size: 50px;
+    justify-content: center;
+}
+
+.container-stater h2{
+    color: #C1BDD4;
+    font-size: 40px;
+}
+
+
+.container-stater button{
+    width: 186px;
+    height: 52px;
+    background-color: #282530;
+    color: #8872E7;
+    font-size: 25px;
+}
+
+.container-all{
+    display: flex;
+    margin: 50px;
+}
+

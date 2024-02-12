@@ -1,0 +1,12 @@
+.Footer-section{
+    display: flex;
+    justify-content: center;
+    background-color: #282530;
+    height: 120px;
+    align-items: center;
+}
+
+.img-foot{
+    width: 262px;
+    height: 55px;
+}

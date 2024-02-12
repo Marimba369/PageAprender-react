@@ -1,0 +1,16 @@
+.section-line{
+    width: 384px;
+    height: 15px;
+    background-color: #402C97;
+}
+
+.container-sectionLine{
+    display: flex;
+    margin-top: 50px;
+    gap: 40px;
+    justify-content: center;
+}
+
+.container-sectionLine h1 {
+    margin-top: 24px;
+}
